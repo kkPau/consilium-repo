@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887018780708",
+    "project_id": "consilium-493ce",
+    "storage_bucket": "consilium-493ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887018780708:android:34d20a8da939b826cf80b1",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887018780708-f783v9nmok5sncaoqq8h69rd6fa9iv5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRqLCTjLzFSTiFxZm1vI00TMnou8yhxbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887018780708-f783v9nmok5sncaoqq8h69rd6fa9iv5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
